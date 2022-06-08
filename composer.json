@@ -1,5 +1,5 @@
 {
-    "name": "laravel/fortify",
+    "name": "boo/fortify",
     "description": "Backend controllers and scaffolding for Laravel authentication.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
